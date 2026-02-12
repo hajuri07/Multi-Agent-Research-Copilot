@@ -11,8 +11,8 @@ pinned: false
 # 🤖 Multi-Agent Research Copilot (LLM + Real Tools)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_on_HF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://hajuri07-multiagent-research.hf.space)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg?style=flat-square)](https://www.python.org/downloads/)
 
 An autonomous, multi-agent orchestration framework designed to automate complex research workflows. This system utilizes an iterative **Planner-Researcher-Critic** loop to decompose high-level user goals into actionable sub-tasks, execute them using live web tools, and validate findings through a reflective critique layer.
 
