@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+arxiv
+groq
+langchain-groq
+langchain-huggingface
+sentence-transformers
+astrapy
